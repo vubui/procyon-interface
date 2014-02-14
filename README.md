@@ -1,2 +1,2 @@
-du-portal-interface
+procyon-interface
 ===================
